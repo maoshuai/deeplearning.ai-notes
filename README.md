@@ -14,8 +14,4 @@ Andrew Ng去年离开百度后，再次投身到了人工智能领域的大众�
 
 课程以订阅的形式提供，订阅的价格是$49/月，因此：**学的越快，越省钱**。极限情况下可以在7天试用期学完则一分钱不要。不过上班族很难吧，我计划1-2个月完成。
 
-
-
-Course1，一共有4个week的课程，题目是：Neural Networks and Deep Learning
-
-下面是Course1 Week1的笔记。
+本笔记最初发表在我的博客上：[deeplearning.ai深度学习笔记整理](http://imshuai.com/tag/deeplearning-ai-notes/)，后稍作整理到此处。之后博客相关的笔记不在更新，而以此为准。
