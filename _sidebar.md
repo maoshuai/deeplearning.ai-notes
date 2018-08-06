@@ -14,3 +14,4 @@
 * [Course5 Week1：Recurrent Neural Networks](c5w1)
 * [Course5 Week2：Natural Language Processing & Word Embeddings](c5w2)
 * [Course5 Week3：Sequence models & Attention mechanism](c5w3)
+* [学完总结](summary)
