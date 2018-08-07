@@ -1,7 +1,7 @@
 
 Andrew Ng去年离开百度后，再次投身到了人工智能领域的大众教育上，并推出了[deeplearning.ai](http://www.deeplearning.ai)网站，旨在建立深度学习教育品牌。不过目前课程主要还是托管在Coursera上，deeplearning.ai本身只不过就是一个 Landing page。
 
-学完了机器学习（[Coursera Machine Learning机器学习课程总结](/coursera-machine-learning-review/)），我要快马加鞭把深度学习也搞一遍。
+学完了机器学习（[Coursera Machine Learning机器学习课程总结](//imshuai.com/coursera-machine-learning-review/)），我要快马加鞭把深度学习也搞一遍。
 
 之前Machine Learning的笔记都是记在自己的Evernote里面；既然要记录，不然直接放到博客，互相交流岂不更好。
 
