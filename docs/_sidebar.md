@@ -1,4 +1,3 @@
-* [笔记简介](/)
 * **Course1: Neural Networks and Deep Learning**
     * [Week1: Introduction to deep learnring](c1w1)
     * [Week2: Neural Networks Basics](c1w2)
