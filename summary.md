@@ -8,7 +8,8 @@
 
 感受是，翻一翻笔记，会发现学习的内容蛮多的，光学习笔记算下来估计有七万字；**但反过来更觉得未知的东西太多**。虽然拿到了证书，但其实并不能代表什么，quora上一句话说得好：
 
-> [Honestly, I don't see the point of MOOCs for this, even though they give you **sense of accomplishment**. ](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours-I-am-free-for-the-next-10-days-and-would-like-to-learn-whatever-I-can-in-the-next-10-days-and-I-can-put-in-10-hours-a-day-What-can-I-learn-to-get-a-hang-of-it-and-get-started)
+> [Honestly, I don't see the point of MOOCs for this, even though they give you sense of accomplishment. ](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours-I-am-free-for-the-next-10-days-and-would-like-to-learn-whatever-I-can-in-the-next-10-days-and-I-can-put-in-10-hours-a-day-What-can-I-learn-to-get-a-hang-of-it-and-get-started)
+
 
 sense of accomplishment，一针见血。但无论怎样，算是对深度学习有了一点了解，至少不是仅仅听说过“深度学习”四个字而已了。用[阮一峰的一篇文摘：费曼的故事](http://www.ruanyifeng.com/blog/2018/07/weekly-issue-14.html)自勉：
 
