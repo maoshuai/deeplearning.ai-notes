@@ -1,5 +1,6 @@
 
 <h1  align="center">deeplearnig.ai深度学习笔记</h1>
+<h3  align="right">作者：http://imshuai.com</h3>
 
 Andrew Ng去年离开百度后，再次投身到了人工智能领域的大众教育上，并推出了[deeplearning.ai](http://www.deeplearning.ai)网站。不过目前课程主要还是托管在Coursera上，deeplearning.ai本身只不过就是一个 Landing page。
 
